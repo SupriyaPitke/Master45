@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="Master45"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{2648441C-22DD-486E-B77F-349B3D6164B2}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="13030.00"/>
+  </_Project>
+
+</Application>
